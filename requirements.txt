@@ -43,7 +43,6 @@ requests-toolbelt==1.0.0
 roboflow==1.1.48
 six==1.16.0
 supervision==0.24.0
-scipy==1.11.4
 tqdm==4.66.5
 typing-inspect==0.9.0
 typing_extensions==4.12.2
